@@ -89,7 +89,33 @@ namespace ManoPrograma
         //        }
         //    }
 
+        //4 uzduotis
 
+        //public static void Main(string[] args)
+        //{
+        //    int[] masyvas = new int[2];
+        //    Console.WriteLine("Įveskite pirmą sveikąjį skaičių:");
+        //    masyvas[0] = Convert.ToInt32(Console.ReadLine());
+        //    Console.WriteLine("Įveskite antrą sveikąjį skaičių:");
+        //    masyvas[1] = Convert.ToInt32(Console.ReadLine());
+        //    ArNeigiamas(masyvas);
         //}
+        //public static void ArNeigiamas(int[] m)
+        //{
+        //    if (m[0] > 0 && m[1] < 0)
+        //    {
+        //        Console.WriteLine("Vienas elementas neigiamas, kitas teigiamas");
+        //    }
+        //    else if (m[1] > 0 && m[0] < 0)
+        //    {
+        //        Console.WriteLine("Vienas elementas neigiamas, kitas teigiamas");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Abu elementai teigiami arba abu neigiami");
+        //    }
+        //}
+
     }
-} 
+}
+
